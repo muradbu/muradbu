@@ -4,11 +4,11 @@
 
 ⚡ I've created the following projects:
 
-_<sub>I kept the source code private because these are commisions</sub>_
-
 - [MyJewelzz](https://myjewelzz.nl)
 - [CUUY](https://cuuy.eu)
 - [TL Recruitment](https://tlrecruitment.nl)
+
+_<sub>I kept the source code private because these are commisions</sub>_
 
 <!--
 **MuradBuyukasik/MuradBuyukasik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
