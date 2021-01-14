@@ -12,7 +12,7 @@
 - [MyJewelzz](https://myjewelzz.nl) (WordPress)
 - [CUUY](https://cuuy.eu) (WordPress)
 
-_<sub>I kept the source code private because these are commisions</sub>_
+_<sub>I kept the source code private because these are commissions.</sub>_
 
 <!--
 **MuradBuyukasik/MuradBuyukasik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
