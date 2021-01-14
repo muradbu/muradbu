@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-🔭 I’m currently working on various webdev projects.
+🔭 I’m currently working on a full-stack Next.js project in combination with a headless CMS!
+
+🌱 I’m currently reading and learning how to apply uncle Bob's Clean Code.
+
+📫 Contact me on Instagram @muradbuyukasik (to be replaced)
+
 
 ⚡ I've created the following projects:
 
@@ -15,11 +20,10 @@ _<sub>I kept the source code private because these are commisions</sub>_
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
