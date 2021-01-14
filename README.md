@@ -4,7 +4,7 @@
 
 🌱 I’m currently reading and learning how to apply uncle Bob's Clean Code.
 
-📫 Contact me on Instagram @muradbuyukasik (to be replaced)
+📫 Contact me on [Instagram @muradbuyukasik](https://instagram.com/muradbuyukasik) (to be replaced).
 
 
 ⚡ I've created the following projects:
