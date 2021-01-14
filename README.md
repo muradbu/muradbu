@@ -6,7 +6,6 @@
 
 ### 📫 Contact me on [@muradbuyukasik](https://instagram.com/muradbuyukasik).
 
-
 ### ⚡ I've created the following projects:
 
 - [TL Recruitment](https://tlrecruitment.nl) (Gatsby.js)
