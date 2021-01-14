@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a full-stack Next.js project in combination with a headless CMS!
+### 🔭 I’m currently working on a full-stack Next.js project in combination with a headless CMS!
 
-🌱 I’m currently reading and learning how to apply uncle Bob's Clean Code.
+### 🌱 I’m currently reading and learning how to apply uncle Bob's Clean Code.
 
-📫 Contact me on [@muradbuyukasik](https://instagram.com/muradbuyukasik).
+### 📫 Contact me on [@muradbuyukasik](https://instagram.com/muradbuyukasik).
 
 
-⚡ I've created the following projects:
+### ⚡ I've created the following projects:
 
 - [TL Recruitment](https://tlrecruitment.nl) (Gatsby.js)
 - [MyJewelzz](https://myjewelzz.nl) (WordPress)
