@@ -9,9 +9,9 @@
 
 ⚡ I've created the following projects:
 
-- [MyJewelzz](https://myjewelzz.nl)
-- [CUUY](https://cuuy.eu)
-- [TL Recruitment](https://tlrecruitment.nl)
+- [TL Recruitment](https://tlrecruitment.nl) (Gatsby.js)
+- [MyJewelzz](https://myjewelzz.nl) (WordPress)
+- [CUUY](https://cuuy.eu) (WordPress)
 
 _<sub>I kept the source code private because these are commisions</sub>_
 
