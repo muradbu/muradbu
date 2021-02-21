@@ -8,7 +8,7 @@
 
 ### ⚡ I've created the following projects:
 
-- [TL Recruitment](https://tlrecruitment.nl) (Gatsby.js - currently offline)
+- [TL Recruitment](https://tlrecruitment.nl) (Gatsby.js)
 - [MyJewelzz](https://myjewelzz.nl) (WordPress)
 - [CUUY](https://cuuy.eu) (WordPress)
 
