@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### 🔭 I’m currently working on a full-stack Next.js project in combination with a headless CMS!
-
 ### 🌱 I’m currently reading and learning how to apply uncle Bob's Clean Code.
 
 ### 📫 Contact me on [@muradbuyukasik](https://instagram.com/muradbuyukasik).
