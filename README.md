@@ -18,15 +18,15 @@ My name's Murad, a full-stack developer primarily working with TypeScript. I'm a
 | [AtiQx Holding](https://atimo.nl/atiqx/) | SWE Intern | Feb 2019 - May 2019 |
 | [Hakuna Group (formerly Bitware Tech EU)](https://hakuna-group.com/) | SWE Intern | Jun 2017 - Mar 2018 |
 
-## Education
-
-- **HAN University of Applied Sciences** — 2020
-  - Completed propedeutical phase at an accelerated pace of 6 months instead of 1 year.
-- **Software Development, Astrum College** — 2016-2019
-
 ## Open-source contributions
 I just started contributing to open-source recently. I find it very fun, and if you are looking for a contribution feel free to contact me on [Twitter](https://twitter.com/muradbuyukasik), [Discord](https://discord.gg/6Nc8B6yYAG) or mention me in an Issue.
 
 | 📦 Repo| ⭐ Stars| ✨ Contribution|
 |---|---|---|
 |[![Github Repo](https://img.shields.io/badge/t3--oss-create--t3--app-blue?style=flat-square)](https://github.com/t3-oss/create-t3-app) | ![GitHub Repo stars](https://img.shields.io/github/stars/t3-oss/create-t3-app?style=flat-square) | <https://github.com/t3-oss/create-t3-app/pull/799>
+
+## Education
+
+- **HAN University of Applied Sciences** — 2020
+  - Completed propedeutical phase at an accelerated pace of 6 months instead of 1 year.
+- **Software Development, Astrum College** — 2016-2019
