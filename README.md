@@ -7,7 +7,7 @@
 
 ## Hey! 👋
 
-My name's Murad, a full-stack developer primarily working with TypeScript. I'm a freelancer at my own company [Codepture](https://github.com/codepture). I have been programming for ~10 years now.
+My name's Murad, a full-stack developer primarily working with TypeScript. I'm a contractor at my own company [Codepture](https://github.com/codepture). I have been programming for ~10 years now.
 
 ## Professional Experience
 
