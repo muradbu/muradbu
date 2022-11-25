@@ -27,6 +27,6 @@ I just started contributing to open-source recently. I find it very fun, and if 
 
 ## Education
 
-- **HAN University of Applied Sciences** — 2020
+- **ICT B.Sc., HAN University of Applied Sciences** — 2020
   - Completed propedeutical phase at an accelerated pace of 6 months instead of 1 year.
 - **Software Development, Astrum College** — 2016-2019
