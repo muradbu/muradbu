@@ -19,7 +19,7 @@ My name's Murad, a full-stack developer primarily working with TypeScript. I'm a
 | [Hakuna Group (formerly Bitware Tech EU)](https://hakuna-group.com/) | SWE Intern | Jun 2017 - Mar 2018 |
 
 ## Open-source contributions
-I just started contributing to open-source recently. I find it very fun, and if you are looking for a contribution feel free to contact me on [Twitter](https://twitter.com/muradbuyukasik), [Discord](https://discord.gg/6Nc8B6yYAG) or mention me in an Issue.
+I just started contributing to open-source recently. I find it very fun, and if you are looking for a contribution feel free to contact me on [Twitter](https://twitter.com/muradbu), [Discord](https://discord.gg/6Nc8B6yYAG) or mention me in an Issue.
 
 | 📦 Repo| ⭐ Stars | ✨ Contribution |
 |---|---|---|
