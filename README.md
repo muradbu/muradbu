@@ -13,7 +13,7 @@ My name's Murad, a full-stack developer primarily working with TypeScript. I'm a
 
 | 🏢 Company | 💼 Role | 📅 Duration |
 |---|---|---|
-| [Codepture](https://github.com/codepture) | SWE/CEO | Jun 2021 - Present |
+| [Codepture](https://github.com/codepture) | SWE | Jun 2021 - Present |
 | [Student aan Huis](https://studentaanhuis.nl/) | IT Technician | Apr 2018 - Apr 2021 |
 | [AtiQx Holding](https://atimo.nl/atiqx/) | SWE Intern | Feb 2019 - May 2019 |
 | [Hakuna Group (formerly Bitware Tech EU)](https://hakuna-group.com/) | SWE Intern | Jun 2017 - Mar 2018 |
